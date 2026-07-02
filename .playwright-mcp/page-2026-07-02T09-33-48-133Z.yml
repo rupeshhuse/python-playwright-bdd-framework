@@ -1,0 +1,650 @@
+- generic [active] [ref=f3e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f3e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f3e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+  - generic [ref=f3e8]:
+    - search [ref=f3e9]:
+      - generic [ref=f3e11]:
+        - generic:
+          - generic:
+            - generic:
+              - img
+        - 'link "ICC Women''s T20 World Cup: Semi-finals" [ref=f3e13] [cursor=pointer]':
+          - /url: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQPQgK
+          - 'img "ICC Women''s T20 World Cup: Semi-finals" [ref=f3e14]'
+        - generic [ref=f3e15]:
+          - generic [ref=f3e16]:
+            - combobox "Search" [ref=f3e19]: Amazon India Amazon India
+            - generic [ref=f3e20]:
+              - button "Clear" [ref=f3e22] [cursor=pointer]:
+                - img [ref=f3e24]
+              - generic [ref=f3e27]:
+                - button "Search by voice" [ref=f3e28] [cursor=pointer]:
+                  - img [ref=f3e29]
+                - button "Search by image" [ref=f3e31] [cursor=pointer]:
+                  - img [ref=f3e32]
+          - button "Search" [ref=f3e34] [cursor=pointer]:
+            - img [ref=f3e37]
+    - generic [ref=f3e39]:
+      - button "Settings" [ref=f3e41] [cursor=pointer]:
+        - img [ref=f3e44]
+      - button "Share" [ref=f3e47] [cursor=pointer]:
+        - img [ref=f3e51]
+      - generic [ref=f3e53]:
+        - button "Google apps" [ref=f3e55] [cursor=pointer]:
+          - img [ref=f3e56]
+        - link "Sign in" [ref=f3e60] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DAmazon%2BIndia%26sca_esv%3D47fdd52eba661d26%26source%3Dhp%26ei%3DXTBGapKNJs6eseMP99KB4Ak%26iflsig%3DABILxe8AAAAAakY-bWJGltNrFMlCEs8APlWVE9xPEid-%26ved%3D0ahUKEwjSr4L817OVAxVOT2wGHXdpAJwQ4dUDCC0%26uact%3D5%26oq%3DAmazon%2BIndia%26gs_lp%3DEgdnd3Mtd2l6IgxBbWF6b24gSW5kaWEyCBAAGIAEGLEDMgUQABiABDIFEAAYgAQyBRAAGIAEMggQABiABBixAzILEAAYgAQYsQMYgwEyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOBgUABYAHAAeACQAQCYAVCgAVCqAQExuAEDyAEA-AEBmAIBoAJrmAMAkgcDMC4xoAfEBbIHAzAuMbgHa8IHAzQtMcgHE4AIAQ%26sclient%3Dgws-wiz%26sei%3DejBGaq3OC7WUseMPie6L4Q8&ec=futura_srp_og_si_72236_p
+  - generic [ref=f3e62]:
+    - navigation [ref=f3e68]:
+      - generic [ref=f3e74]:
+        - list [ref=f3e75]:
+          - listitem [ref=f3e76]:
+            - link "AI Mode" [ref=f3e79] [cursor=pointer]:
+              - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&udm=50&source=hp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jkCMzF6tiD-p-0w1wJ8QXOpmHKNceTrn6QQc6PW2FZlrXUBf4c5rdhk3rK2Ns9k_dNvUddC0wzfEs9xu4Vl_CaBryQgkKP-npne6ZI0M8pSxIDyLGEBarHIxoUE_yYIqFRn3wwUpjXkhpAhdU8h94t0fhf98Q&aep=1&ntc=1&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ2J8OegQIGxAD
+              - generic [ref=f3e82]: AI Mode
+          - listitem [ref=f3e83]:
+            - link "All" [disabled] [ref=f3e84]:
+              - generic [ref=f3e86]: All
+          - listitem [ref=f3e87]:
+            - link "Shopping" [ref=f3e88] [cursor=pointer]:
+              - /url: /search?sca_esv=47fdd52eba661d26&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jkCMzF6tiD-p-0w1wJ8QXOpmHKNceTrn6QQc6PW2FZlrXUBf4c5rdhk3rK2Ns9k_dNvUddC0wzfEs9xu4Vl_CaBryQgkKP-npne6ZI0M8pSxIDyLGEBarHIxoUE_yYIqFRn3wwUpjXkhpAhdU8h94t0fhf98Q&q=Amazon+India&ved=1t:220175&ictx=111
+              - generic [ref=f3e90]: Shopping
+          - listitem [ref=f3e91]:
+            - link "Images" [ref=f3e92] [cursor=pointer]:
+              - /url: /search?sca_esv=47fdd52eba661d26&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jkCMzF6tiD-p-0w1wJ8QXOpmHKNceTrn6QQc6PW2FZlrXUBf4c5rdhk3rK2Ns9k_dNvUddC0wzfEs9xu4Vl_CaBryQgkKP-npne6ZI0M8pSxIDyLGEBarHIxoUE_yYIqFRn3wwUpjXkhpAhdU8h94t0fhf98Q&q=Amazon+India&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQtKgLegQIHhAB
+              - generic [ref=f3e94]: Images
+          - listitem [ref=f3e95]:
+            - link "News" [ref=f3e96] [cursor=pointer]:
+              - /url: /search?sca_esv=47fdd52eba661d26&q=Amazon+India&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jkCMzF6tiD-p-0w1wJ8QXOpmHKNceTrn6QQc6PW2FZlrXUBf4c5rdhk3rK2Ns9k_dNvUddC0wzfEs9xu4Vl_CaBryQgkKP-npne6ZI0M8pSxIDyLGEBarHIxoUE_yYIqFRn3wwUpjXkhpAhdU8h94t0fhf98Q&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ0pQJegQIIRAB
+              - generic [ref=f3e98]: News
+          - listitem [ref=f3e99]:
+            - link "Short videos" [ref=f3e100] [cursor=pointer]:
+              - /url: /search?sca_esv=47fdd52eba661d26&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jkCMzF6tiD-p-0w1wJ8QXOpmHKNceTrn6QQc6PW2FZlrXUBf4c5rdhk3rK2Ns9k_dNvUddC0wzfEs9xu4Vl_CaBryQgkKP-npne6ZI0M8pSxIDyLGEBarHIxoUE_yYIqFRn3wwUpjXkhpAhdU8h94t0fhf98Q&q=Amazon+India&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQs6gLegQIIBAB
+              - generic [ref=f3e102]: Short videos
+          - listitem [ref=f3e103]:
+            - link "Forums" [ref=f3e104] [cursor=pointer]:
+              - /url: /search?sca_esv=47fdd52eba661d26&udm=18&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jkCMzF6tiD-p-0w1wJ8QXOpmHKNceTrn6QQc6PW2FZlrXUBf4c5rdhk3rK2Ns9k_dNvUddC0wzfEs9xu4Vl_CaBryQgkKP-npne6ZI0M8pSxIDyLGEBarHIxoUE_yYIqFRn3wwUpjXkhpAhdU8h94t0fhf98Q&q=Amazon+India&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQs6gLegQIHRAB
+              - generic [ref=f3e106]: Forums
+          - listitem [ref=f3e107]:
+            - button "More filters" [ref=f3e108] [cursor=pointer]:
+              - generic "More filters" [ref=f3e109]:
+                - generic [ref=f3e110]:
+                  - generic [ref=f3e111]: More
+                  - img [ref=f3e113]
+        - button "Tools" [ref=f3e116] [cursor=pointer]:
+          - generic [ref=f3e118]:
+            - generic [ref=f3e119]: Tools
+            - img [ref=f3e121]
+    - heading "Search Results" [level=1] [ref=f3e124]
+    - main [ref=f3e130]:
+      - region "Ads" [ref=f3e133]:
+        - generic [ref=f3e134]:
+          - heading "Sponsored result" [level=2] [ref=f3e141]
+          - generic [ref=f3e142]:
+            - generic [ref=f3e155]:
+              - generic [ref=f3e156]:
+                - 'link "Amazon Prime Day | Starts 4th July | Sneak Peek: Epic Deals Ahead amazon.in https://www.amazon.in › primeday › sale" [ref=f3e157] [cursor=pointer]':
+                  - /url: /goto?url=CAESTgHuR6pNT1oyr2t_jnFK9A5gOhDwK4uH-rAitP9v7vvtqB5Ltrn14nZa6b42qgwSK4pPrD8aXUuAj1734WgBmU6U4DThVsQ_7BeorS1bzg==
+                  - 'heading "Amazon Prime Day | Starts 4th July | Sneak Peek: Epic Deals Ahead" [level=3] [ref=f3e158]'
+                  - generic [ref=f3e164]:
+                    - generic [ref=f3e166]: amazon.in
+                    - generic [ref=f3e167]: https://www.amazon.in › primeday › sale
+                - button "Why this ad?" [ref=f3e170] [cursor=pointer]:
+                  - img [ref=f3e172]
+              - generic [ref=f3e176]: 10% Instant Discount on SBI & AXIS bank Credit & Debit Card Transactions* Best Deals on...
+              - generic [ref=f3e177]:
+                - link "Deals on Home & Kitchen Up to 80% off Cashback Never Seen Before!" [ref=f3e181] [cursor=pointer]:
+                  - /url: /goto?url=CAESnQMB7keqTQ3zljljREla2AbDrsR3Su24rKWkSfFs9XdbmD2r_b291AUAQtYYyy6gqC-W_YrR0_I13WJkzyarGIUUUcoIBIaH59UOTDBvt7DtWzgOyVZ6BrwkxqB8vw97D0uEQaPqcs-M9LRydpoMqERFpS-jSl-lpWoUsu7-es3FgbGsrGz61EPt2OVQ7JEDYFRFMgBSh-hnHeoRudGgMZgxrz7qwtcWEZJAOkco8ugzzCSjpeRi1_zzM81nFGITEVzAds3A6xJ4ippp9tXRJuyjlqpRPtSnuskmwxHzMaXtumR7U53-1eieIhM3XKBpYJsyTmxQE9tYTZiNHoZvX_Mqg1VdS1R-tAFE5vJgaODLOpIpV_P4uvMtA83mOQRXG7GpCr3QCc4-q-MdowqVGJoBqNXQFOqkXh3mpXoZtgkG_RtGohxDYBTQpbnFkHGxozLxphhhVBYHcwn2ssdrgFrGF_DdRf_NIpMPtnhw179BLd6aQh6OxbuLYGhxPElgpFcwgulqm-ZPnMND_237puLUl6v5yH6CVgYSgg-Nsg==
+                  - generic [ref=f3e182]: Deals on Home & Kitchen
+                  - generic [ref=f3e185]: Up to 80% off Cashback Never Seen Before!
+                - link "Mobiles and Accessories Shop Latest Phones from Top Brands Up to 40% off on Smartphones" [ref=f3e189] [cursor=pointer]:
+                  - /url: /goto?url=CAESngMB7keqTd7rZ4j0Ykc87upA7tk4W78G_9Avu3AE99PqpDzXRHvpZQbRdh_3Ym2jAhFeFIhuX3Diwzta8mABxTh5iVUOjFvbshJt39rY8jalvt303_04r0f4dW55yR0tD3gXSzCtFZXtZzUaKNOcwez8uBO-zi19KyIelTdlqZw8kFKiCLx32thwE1Jcnv0RYE_iiYHayptfOhmVM_bcz5d28VcM5U2chdlG3RkQh1qaSRTj57NMxX10o7uX6visedEJQYJk7obU2QOSwItiN4eTHN9UV-68SBL6SSwpU7BK-nnkfjA1KRlZwEua_AmRrZ8Rx3WIHDKqrBSHHQzN72atQnJSl5d6H4v1KpZGxL99TNkfZ8J_Asv_I-Hm12HOhKna_d3avOSHCAmCtu-OVUkPr1Tp6Bx7ZLW50KXzEsliblQBDFNtnxT3q1uZHiKkALv1l-zjPDrrus1LXEqgSS8Xl9SjIlNYJ8Z9pJDELDJP1xdZiH-fwyKoBI5tSyrK2zQq0znl-5pw7IFxJLeoyyyZzK1pv3Gl6QUXPcRXw7w=
+                  - generic [ref=f3e190]: Mobiles and Accessories
+                  - generic [ref=f3e193]: Shop Latest Phones from Top Brands Up to 40% off on Smartphones
+                - link "Amazon Fashion & Beauty Up to 60% off top-rated Brands Deals on Latest Styles & Trends" [ref=f3e197] [cursor=pointer]:
+                  - /url: /goto?url=CAESnwMB7keqTVrM2SYoLe7Xof0kZghJAigmsAwZICVaWGGhFaX_eOk_kkKy3mkj40_piClf-GjKbrjkri60VKZhVKAfFe4niZ7ueKpZcMDptXIr20Vpk-0Te4D3dbdItmtvlCPMZRZFH6rX2yuBdokBVMFangTEZiX81fxPV7QN3S__x69NvVRLH1-2UqL6HBb-BzZBZQo3v9SEmc8v8aGpfnG3Yn-MGGyc5mTBhdZaxiTeXjtdjoVEa9i3eZeSMHb-pyaiyAJl1D2zd8PY_dAdqem38RJM7JzZFe_P3j1eBxwywa8Ln4nywQsYIcEkkaahPR3Ub00b075Zo3WSJ7PeDDH5QmaQX27Wg20NHZ-lm5TYM0HmS57abo42lyWmxdOeZUmHhTecar2YRcCxXHLPfva80hGQjRv1TVgYZFvAAk0UxRrmYPB8nb7U3vnaeAKUmh5OBzigw6eldpAjzRHMF2ZJ34jG8rCkKlBMnZ_GuB446K1vJaS-Pwwq0eg0Vdy27m3RTfo7lHDo8oOvZDhb0WcZkVfosTnvv2B9n52bSlu2
+                  - generic [ref=f3e198]: Amazon Fashion & Beauty
+                  - generic [ref=f3e201]: Up to 60% off top-rated Brands Deals on Latest Styles & Trends
+                - link "Deals on TVs & Projectors Up to 65% off on Top Brands No Cost EMI, Coupon Offers & more" [ref=f3e205] [cursor=pointer]:
+                  - /url: /goto?url=CAESngMB7keqTYLhnbXYRFVlmpUZd4xZZ3oredIUoBDJmoLZSTggxXvSb04E4ttzTVcpd7vLsQbSDRbYhjqg-eONCQnxR4Nkjpa0B4plP7Zy7hwkkbxNIYS1l-1CzcpfMaZTi7FqzhNRvbfjDyIJ85-S25_T3VzV7Diod97rFfb19Gnfbp-tBuZObpfjXBLsEQ-Gi5U2xGlMhroNjA8HMF8rt-7Ai-bJ7CfmRtH1-YFsLe5R7jUPK_3ywj8LgSYw-WLAvgL8QG4O7W8JOVW8nqyammbEUR6DJcyZYf4foCkHD7mZuw1zpm-vyQqm6cni-vzrlDXLgV7TGB0SMisG-tG53DEfwxcI5Z7f1A3Q7ct0OOipyf1bjAJgV2j8VargZPLXy_t8RJ80pX-PA80Qy7ku-DCsBMA9GywcNmn_icy0TmzLZkSmtac5RALKhzeEMWmrDbzmdTA0WopmkcTQRzhr4Wau2q1i3eK2KW_7wE7lktWr0OnL7bUakrGovf9ZvMuYGq5YD2GUUGOWJTb2XqrcSSBvZ5LhU6LIaUKc1PO5YIM=
+                  - generic [ref=f3e206]: Deals on TVs & Projectors
+                  - generic [ref=f3e209]: Up to 65% off on Top Brands No Cost EMI, Coupon Offers & more
+                - link "Echo with Alexa & Fire TV Up to 45% off Extra 10% off with Bank Discount" [ref=f3e213] [cursor=pointer]:
+                  - /url: /goto?url=CAESnwMB7keqTeDQ81-avaN_YFrWfk6OPGQfYVpZpmwVGpfErCf1oKBCpTwNtU89YwHFBzgyo3KMqA32MNckF1MRc7CPhB_pXls9Nm2XlS2tQhFBsK-IzogKht_H17D4L_QaJ5R_TaqBhLk8tRz4G6I51boQhCrYNFzUBR8a4BaXFj4MYQo0mMqg3uBb7Kr6noSko95r7wemSLvDVzyd6VK87jpEZNNIcgYVAmElyahTVLZk5B2eaK1UOq7lCtztlgOor2v8S6pBwVwKGq1Px5aETLT9_nGqDypeyUpYy56XNyvJJHsIY9tZDmSlqgBXiyv4cl00wi2s7EvZV2jMm2JfueINpVYyy7LbTxjk8vi3Fs-bnYZHfi6rOjR54vv-jSs3FFO9ldakD5IfON2ExgkE6o6Jod_ZuejeDuC1zQMCMbzYfzq3K63_MllniL6W1lOBnA_0Hy1SYM81-IJh3u9Mc3Xjy44jL6KiJZruFyZqIlClKwi4g2y7ZtgX_RuPBCc-EKmvNDU4OT5TeeItyHZpWxn5kjEddK5ac14Re10KEa4l
+                  - generic [ref=f3e214]: Echo with Alexa & Fire TV
+                  - generic [ref=f3e217]: Up to 45% off Extra 10% off with Bank Discount
+            - button "Hide sponsored result" [ref=f3e220] [cursor=pointer]:
+              - separator [ref=f3e221]
+              - generic [ref=f3e222]:
+                - generic [ref=f3e223]: Hide sponsored result
+                - img [ref=f3e225]
+      - generic [ref=f3e230]:
+        - generic [ref=f3e233]:
+          - heading "Web result with site links" [level=2] [ref=f3e234]
+          - generic [ref=f3e235]:
+            - generic [ref=f3e239]:
+              - generic [ref=f3e241]:
+                - 'link "Online Shopping site in India: Shop Online for Mobiles, Books ... Amazon.in https://www.amazon.in" [ref=f3e243] [cursor=pointer]':
+                  - /url: /goto?url=CAESTgHuR6pNT1oyr2t_jnFK9A5gOhDwK4uH-rAitP9v7vvtqB5Ltrn14nZa6b42qgwSK4pPrD8aXUuAj1734WgBmU6U4DThVsQ_7BeorS1bzg==
+                  - 'heading "Online Shopping site in India: Shop Online for Mobiles, Books ..." [level=3] [ref=f3e244]'
+                  - generic [ref=f3e250]:
+                    - generic [ref=f3e252]: Amazon.in
+                    - generic [ref=f3e254]: https://www.amazon.in
+                - button "About this result" [ref=f3e257] [cursor=pointer]:
+                  - img [ref=f3e260]
+              - generic [ref=f3e264]:
+                - emphasis [ref=f3e265]: Amazon.in
+                - text: ": Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery ..."
+            - group "Personalised recommendations based on your history" [ref=f3e266]:
+              - rowgroup [ref=f3e267]:
+                - 'row "Buy Home & Kitchen products ... Home & Kitchen store: Shop for Home products online at best ..." [ref=f3e268]':
+                  - 'cell "Buy Home & Kitchen products ... Home & Kitchen store: Shop for Home products online at best ..." [ref=f3e269]':
+                    - generic [ref=f3e275]:
+                      - heading "Buy Home & Kitchen products ..." [level=3] [ref=f3e276]:
+                        - link "Buy Home & Kitchen products ..." [ref=f3e277] [cursor=pointer]:
+                          - /url: /goto?url=CAEScwHuR6pNZW7yPfnpoyWmgDPvDlcvdDhR-6NG5JopRvft_DXjTD6h8mAgo-VEJzr1hZnMoRXbQjdpPzryksQ7hc0KuAjDM3jOjJTqxdv6gJSaHHPc38TrsOTV8v3HDVIEGwWG6QmdWsALA6jgJo1jywGTlvA=
+                          - text: Buy Home & Kitchen products ...
+                      - generic [ref=f3e280]: "Home & Kitchen store: Shop for Home products online at best ..."
+                - row "Online Shopping Get FREE Shipping on eligible orders shipped by Amazon ..." [ref=f3e281]:
+                  - cell "Online Shopping Get FREE Shipping on eligible orders shipped by Amazon ..." [ref=f3e282]:
+                    - generic [ref=f3e288]:
+                      - heading "Online Shopping" [level=3] [ref=f3e289]:
+                        - link "Online Shopping" [ref=f3e290] [cursor=pointer]:
+                          - /url: /goto?url=CAEScQHuR6pNvpJrChyQX_TbpBRUxD1HHcWkbAVWIZg95adLkaoVvfcphAwWl0iAQ4s89n3d0uhB1dd49Rh7TYxbYJIxnl0hDzS2AWK6subTamoFU6JzWHmdd6y6q6z7qd6Qftjd1KGhMpoGYJW9kE2uKlDq
+                          - text: Online Shopping
+                      - generic [ref=f3e293]: Get FREE Shipping on eligible orders shipped by Amazon ...
+                - row "Women’s Clothing Shop women's clothing at Amazon ... Indian Kurti Clothing with ..." [ref=f3e294]:
+                  - cell "Women’s Clothing Shop women's clothing at Amazon ... Indian Kurti Clothing with ..." [ref=f3e295]:
+                    - generic [ref=f3e301]:
+                      - heading "Women’s Clothing" [level=3] [ref=f3e302]:
+                        - link "Women’s Clothing" [ref=f3e303] [cursor=pointer]:
+                          - /url: /goto?url=CAESZwHuR6pNfmlbeuxoaAOhkb7H8IHgL25Sm-KHj6gNF-5MXA9aXA795HvnqvD9IH6HL7yidrn-MP-d9JxuhbsjW9exIaKzi9937cuJ7iFcC6AL1dPBY5NReL0W1xSB0udnl15mpiSHI9I=
+                          - text: Women’s Clothing
+                      - generic [ref=f3e306]: Shop women's clothing at Amazon ... Indian Kurti Clothing with ...
+                - row "Electronics Store Shop electronics at Amazon Prime Day Sale 2026. Get laptops ..." [ref=f3e307]:
+                  - cell "Electronics Store Shop electronics at Amazon Prime Day Sale 2026. Get laptops ..." [ref=f3e308]:
+                    - generic [ref=f3e314]:
+                      - heading "Electronics Store" [level=3] [ref=f3e315]:
+                        - link "Electronics Store" [ref=f3e316] [cursor=pointer]:
+                          - /url: /goto?url=CAEScgHuR6pNSjAHpa3SQJpQjLw7YtU3P0H24b_utcv136Ja_y1vFH_XCkJZ-9K_u9R-65BE7_9GVhp1CQ1HXSlENxbcZfimmHmbl3HcDVm2pfUOJV-ChfbX4CX98aLNY-0GRf3D0NEYQSkEBNIq-nk-M3L_UA==
+                          - text: Electronics Store
+                      - generic [ref=f3e319]: Shop electronics at Amazon Prime Day Sale 2026. Get laptops ...
+                - 'row "India India: 5,000 Years of History on the Subcontinent." [ref=f3e320]':
+                  - 'cell "India India: 5,000 Years of History on the Subcontinent." [ref=f3e321]':
+                    - generic [ref=f3e327]:
+                      - heading "India" [level=3] [ref=f3e328]:
+                        - link "India" [ref=f3e329] [cursor=pointer]:
+                          - /url: /goto?url=CAESXQHuR6pND_StjehZLbAVO-Jdw6WeUj09UU7GL2c-pqXFaBD_1cJgpeRDNNAhFn0mmIVIMB7vy9CvDs7UrytFl0BQkwc9BbA0_BAi_VQQa9Ym6BDoXEdeUnG_UosAYw==
+                          - text: India
+                      - generic [ref=f3e332]: "India: 5,000 Years of History on the Subcontinent."
+                - row "More results from amazon.in »" [ref=f3e334]:
+                  - cell "More results from amazon.in »" [ref=f3e335]:
+                    - link "More results from amazon.in »" [ref=f3e337] [cursor=pointer]:
+                      - /url: /search?q=Amazon+India+site:amazon.in&sca_esv=47fdd52eba661d26&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQrAN6BAgPEAE
+        - generic [ref=f3e338]:
+          - generic [ref=f3e346]:
+            - generic [ref=f3e354]:
+              - generic [ref=f3e356]:
+                - heading "Popular products" [level=2] [ref=f3e357]
+                - button "About this result" [ref=f3e358] [cursor=pointer]:
+                  - img [ref=f3e361]
+              - generic [ref=f3e366]:
+                - list [ref=f3e370]:
+                  - listitem [ref=f3e371]:
+                    - 'button "Cookwell Bullet Mixer Grinder (5 Jars, 3 Blades, Silver) - Copper, 600 Watts - 2 Year Warranty. Current price: ₹2,199. Amazon.in. Free delivery. Go to product viewer for this item." [ref=f3e375]':
+                      - generic [ref=f3e385] [cursor=pointer]:
+                        - img [ref=f3e390]
+                        - generic [ref=f3e391]: Cookwell Bullet Mixer Grinder (5 Jars, 3 Blades, Silver) - Copper, 600 Watts - 2 Year Warranty
+                        - 'group "Current price: ₹2,199." [ref=f3e392]':
+                          - generic [ref=f3e395]: ₹2,199
+                        - generic [ref=f3e397]:
+                          - img "Amazon.in" [ref=f3e403]
+                          - generic [ref=f3e404]: Amazon.in
+                  - listitem [ref=f3e405]:
+                    - 'button "Story@Home 100% True Blackout Window Curtains 5 Feet Set of 1 | Plain Design | Room Darkening Curtain | Thermal Insulated Curtains for Living Room,. Current price: ₹629. Amazon.in. Free delivery. Go to product viewer for this item." [ref=f3e409]':
+                      - generic [ref=f3e419] [cursor=pointer]:
+                        - img [ref=f3e424]
+                        - generic [ref=f3e425]: Story@Home 100% True Blackout Window Curtains 5 Feet Set of 1 | Plain Design | Room Darkening Curtain | Thermal Insulated Curtains for Living Room,
+                        - 'group "Current price: ₹629." [ref=f3e426]':
+                          - generic [ref=f3e429]: ₹629
+                        - generic [ref=f3e431]:
+                          - img "Amazon.in" [ref=f3e437]
+                          - generic [ref=f3e438]: Amazon.in
+                  - listitem [ref=f3e439]:
+                    - 'button "Hit Flying Insect Killer - Mosquito & Fly Killer Spray (700Ml) | Instant Kill | Protection From Dengue & Malaria, Pack Of 2. Current price: ₹644. amazon.in. Rated 4.7 out of 5. 41 reviews. Go to product viewer for this item." [ref=f3e443]':
+                      - generic [ref=f3e453] [cursor=pointer]:
+                        - img [ref=f3e458]
+                        - generic [ref=f3e459]: Hit Flying Insect Killer - Mosquito & Fly Killer Spray (700Ml) | Instant Kill | Protection From Dengue & Malaria, Pack Of 2
+                        - 'group "Current price: ₹644." [ref=f3e460]':
+                          - generic [ref=f3e463]: ₹644
+                        - generic [ref=f3e465]:
+                          - img "amazon.in" [ref=f3e471]
+                          - generic [ref=f3e472]: amazon.in
+                        - img "Rated 4.7 out of 5. 41 reviews." [ref=f3e473]:
+                          - img "Rated 4.7 out of 5, 41 user reviews" [ref=f3e474]:
+                            - img [ref=f3e475]
+                            - text: (41)
+                  - listitem [ref=f3e478]:
+                    - 'button "3M Combo of Car Shampoo (1 L) and Liquid Wax | Remove Dirt with High Foam Shampoo | Restore Gloss with car Liquid Wax. Current price: ₹1,118. amazon.in. Rated 4.3 out of 5. 29 reviews. Go to product viewer for this item." [ref=f3e482]':
+                      - generic [ref=f3e492] [cursor=pointer]:
+                        - img [ref=f3e497]
+                        - generic [ref=f3e498]: 3M Combo of Car Shampoo (1 L) and Liquid Wax | Remove Dirt with High Foam Shampoo | Restore Gloss with car Liquid Wax
+                        - 'group "Current price: ₹1,118." [ref=f3e499]':
+                          - generic [ref=f3e502]: ₹1,118
+                        - generic [ref=f3e504]:
+                          - img "amazon.in" [ref=f3e510]
+                          - generic [ref=f3e511]: amazon.in
+                        - img "Rated 4.3 out of 5. 29 reviews." [ref=f3e512]:
+                          - img "Rated 4.3 out of 5, 29 user reviews" [ref=f3e513]:
+                            - img [ref=f3e514]
+                            - text: (29)
+                  - listitem [ref=f3e517]:
+                    - 'button "MEERA FAB Women''s Printed Straight Kurta Palazzo Dupatta Set. Current price: ₹944. Amazon.in & more. Free delivery. Go to product viewer for this item." [ref=f3e521]':
+                      - generic [ref=f3e531] [cursor=pointer]:
+                        - img [ref=f3e536]
+                        - generic [ref=f3e537]: MEERA FAB Women's Printed Straight Kurta Palazzo Dupatta Set
+                        - 'group "Current price: ₹944." [ref=f3e538]':
+                          - generic [ref=f3e541]: ₹944
+                        - generic [ref=f3e542]:
+                          - generic [ref=f3e543]:
+                            - img "Amazon.in" [ref=f3e549]
+                            - generic [ref=f3e550]: Amazon.in
+                          - generic [ref=f3e551]: "& more"
+                  - listitem [ref=f3e552]
+                  - listitem [ref=f3e553]
+                  - listitem [ref=f3e554]
+                  - listitem [ref=f3e555]
+                  - listitem [ref=f3e556]
+                - button [ref=f3e558] [cursor=pointer]:
+                  - img [ref=f3e561]
+            - generic [ref=f3e573]:
+              - heading "Under ₹500 ." [level=3] [ref=f3e574]:
+                - button "Under ₹500 ." [expanded] [ref=f3e575] [cursor=pointer]:
+                  - generic [ref=f3e580]:
+                    - generic [ref=f3e583]: Under ₹500
+                    - generic: .
+                  - img [ref=f3e586]
+              - generic [ref=f3e593]:
+                - generic [ref=f3e596]:
+                  - list "Under ₹500" [ref=f3e597]:
+                    - listitem [ref=f3e598]:
+                      - 'button "HIT Flying Insect Killer - Mosquito & Fly Killer Spray (400ml) | Instant Kill | Protection from Dengue & Malaria (Pack of 2). Current price: ₹450. amazon.in. Rated 2.5 out of 5. 2 reviews. Go to product viewer for this item." [ref=f3e602]':
+                        - generic [ref=f3e612] [cursor=pointer]:
+                          - img [ref=f3e617]
+                          - generic [ref=f3e618]: HIT Flying Insect Killer - Mosquito & Fly Killer Spray (400ml) | Instant Kill | Protection from Dengue & Malaria (Pack of 2)
+                          - 'group "Current price: ₹450." [ref=f3e619]':
+                            - generic [ref=f3e622]: ₹450
+                          - generic [ref=f3e624]:
+                            - img "amazon.in" [ref=f3e630]
+                            - generic [ref=f3e631]: amazon.in
+                          - img "Rated 2.5 out of 5. 2 reviews." [ref=f3e632]:
+                            - img "Rated 2.5 out of 5, 2 user reviews" [ref=f3e633]:
+                              - img [ref=f3e634]
+                              - text: (2)
+                    - listitem [ref=f3e637]:
+                      - 'button "HIT Flying Insect Killer - Mosquito & Fly Killer Spray (400ml) | Lime Fragrance | Instant Kill | Protection from Dengue & Malaria (Pack of 2). Current price: ₹440. amazon.in. Go to product viewer for this item." [ref=f3e641]':
+                        - generic [ref=f3e651] [cursor=pointer]:
+                          - img [ref=f3e656]
+                          - generic [ref=f3e657]: HIT Flying Insect Killer - Mosquito & Fly Killer Spray (400ml) | Lime Fragrance | Instant Kill | Protection from Dengue & Malaria (Pack of 2)
+                          - 'group "Current price: ₹440." [ref=f3e658]':
+                            - generic [ref=f3e661]: ₹440
+                          - generic [ref=f3e663]:
+                            - img "amazon.in" [ref=f3e669]
+                            - generic [ref=f3e670]: amazon.in
+                    - listitem [ref=f3e671]:
+                      - 'button "Amazon Brand - Symbol Men''s Cotton Rich Solid Polo Tshirt | Collar Tshirts | Half Sleeves | Plain-Regular Fit (Available in Plus Sizes and Combo Pack. Current price: ₹399. Amazon.in. Free delivery. Go to product viewer for this item." [ref=f3e675]':
+                        - generic [ref=f3e685] [cursor=pointer]:
+                          - img [ref=f3e690]
+                          - generic [ref=f3e691]: Amazon Brand - Symbol Men's Cotton Rich Solid Polo Tshirt | Collar Tshirts | Half Sleeves | Plain-Regular Fit (Available in Plus Sizes and Combo Pack
+                          - 'group "Current price: ₹399." [ref=f3e692]':
+                            - generic [ref=f3e695]: ₹399
+                          - generic [ref=f3e697]:
+                            - img "Amazon.in" [ref=f3e703]
+                            - generic [ref=f3e704]: Amazon.in
+                    - listitem [ref=f3e705]:
+                      - 'button "Amazon Brand Men''s Symbol Slim Fit Formal Shirt. Current price: ₹349. Amazon.in. Free delivery. Go to product viewer for this item." [ref=f3e709]':
+                        - generic [ref=f3e719] [cursor=pointer]:
+                          - img [ref=f3e724]
+                          - generic [ref=f3e725]: Amazon Brand Men's Symbol Slim Fit Formal Shirt
+                          - 'group "Current price: ₹349." [ref=f3e726]':
+                            - generic [ref=f3e729]: ₹349
+                          - generic [ref=f3e731]:
+                            - img "Amazon.in" [ref=f3e737]
+                            - generic [ref=f3e738]: Amazon.in
+                    - listitem [ref=f3e739]:
+                      - 'button "Amazon Brand Men''s Symbol Regular Fit Shirt. Current price: ₹499. Amazon.in. Free delivery. Go to product viewer for this item." [ref=f3e743]':
+                        - generic [ref=f3e753] [cursor=pointer]:
+                          - img [ref=f3e758]
+                          - generic [ref=f3e759]: Amazon Brand Men's Symbol Regular Fit Shirt
+                          - 'group "Current price: ₹499." [ref=f3e760]':
+                            - generic [ref=f3e763]: ₹499
+                          - generic [ref=f3e765]:
+                            - img "Amazon.in" [ref=f3e771]
+                            - generic [ref=f3e772]: Amazon.in
+                  - link "See more" [ref=f3e774] [cursor=pointer]:
+                    - /url: /search?sca_esv=47fdd52eba661d26&q=amazon+india+under+%E2%82%B9500&shoprs=CAESDRILEQAAAABlzb1BGAEYBSoMYW1hem9uIGluZGlhYAOAAQE&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQkOQKKAF6BAhPEAk
+                    - generic [ref=f3e776]:
+                      - img [ref=f3e779]
+                      - generic [ref=f3e781]: See more
+                - button [ref=f3e782] [cursor=pointer]:
+                  - img [ref=f3e785]
+            - heading "Over ₹700 ." [level=3] [ref=f3e798]:
+              - button "Over ₹700 ." [ref=f3e799] [cursor=pointer]:
+                - generic [ref=f3e805]:
+                  - generic [ref=f3e808]: Over ₹700
+                  - generic: .
+                - img [ref=f3e811]
+          - generic [ref=f3e817]:
+            - generic [ref=f3e820]:
+              - link "Amazon India (@AmazonIN) Facebook · Amazon India 1Cr+ followers" [ref=f3e822] [cursor=pointer]:
+                - /url: /goto?url=CAESWgHuR6pN-Re-V5De2U9KiI2jCaSbp6H5BW3_aeA9zNaVCqpbIXFbyr8Cw919zZiSYG1oK8s3JyIBTxDD6ySvU8o6-Q4DzC8afz_DPNaw-MSUYATAJzK2myHxwg==
+                - heading "Amazon India (@AmazonIN)" [level=3] [ref=f3e823]
+                - generic [ref=f3e829]:
+                  - generic [ref=f3e831]: Facebook · Amazon India
+                  - generic [ref=f3e833]: 1Cr+ followers
+              - button "About this result" [ref=f3e836] [cursor=pointer]:
+                - img [ref=f3e839]
+            - generic [ref=f3e842]:
+              - generic [ref=f3e843]:
+                - emphasis [ref=f3e844]: Amazon's extraordinary journey for the past decade
+                - text: ", making us truly India's beloved store. Your dedication, support, and pride have written our story."
+              - link "Read more" [ref=f3e845] [cursor=pointer]:
+                - /url: /goto?url=CAESwgEB7keqTaHtqZBhFO6WC57KG7IT9SJp9SnHqBDifzvFJApqT2jRKLk15ZbiRuMVUSJDQEzUF7qE6yfznbx1f-JzHkjkzGKcFZC1URrTthIK9Mv_pT5kNW75tnzJIH9jPZRQt_RvfPXCF9TRjNJWyNTuqYZXvxlo4KMXhzEu7ZCDCBXhEcBpvDnyhX94QoPDQgYEJbdUYV9Y0a180fwPHtPSbxz-ALWDdQ2f8y3a0il7wQol69iqanQz_tdr7UXwoezE9w==
+          - generic [ref=f3e849]:
+            - generic [ref=f3e852]:
+              - link "Amazon India Shop, Pay, miniTV – Apps on ... Google Play https://play.google.com › store › apps › details › id=in.a..." [ref=f3e854] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping&hl=en_IN
+                - heading "Amazon India Shop, Pay, miniTV – Apps on ..." [level=3] [ref=f3e855]
+                - generic [ref=f3e861]:
+                  - generic [ref=f3e863]: Google Play
+                  - generic [ref=f3e865]: https://play.google.com › store › apps › details › id=in.a...
+              - button "About this result" [ref=f3e868] [cursor=pointer]:
+                - img [ref=f3e871]
+            - generic [ref=f3e874]:
+              - generic [ref=f3e875]:
+                - text: With the
+                - emphasis [ref=f3e876]: Amazon
+                - text: app, shop online and pay across a wide selection of products, groceries and categories at great prices, within a single shopping app.
+              - link "Read more" [ref=f3e877] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping&hl=en_IN#:~:text=With%20the%20Amazon%20app%2C%20shop,within%20a%20single%20shopping%20app.
+          - generic [ref=f3e881]:
+            - generic [ref=f3e884]:
+              - link "Amazon India (@amazondotin) Instagram · amazondotin 84.4L+ followers" [ref=f3e886] [cursor=pointer]:
+                - /url: /goto?url=CAESZAHuR6pN-LzNy7FCdQ9dQ41nVZJlrJvCj5I-Lz7zY5YwnM4Oqght4MttkDfpqmJXJ5aq1piNLzePIe05LfbK-kiLcKs0Naq0FjVHPjELZ1RvIipImJx8mdwfoTX0TPymrkcKWoo=
+                - heading "Amazon India (@amazondotin)" [level=3] [ref=f3e887]
+                - generic [ref=f3e893]:
+                  - generic [ref=f3e895]: Instagram · amazondotin
+                  - generic [ref=f3e897]: 84.4L+ followers
+              - button "About this result" [ref=f3e900] [cursor=pointer]:
+                - img [ref=f3e903]
+            - generic [ref=f3e907]:
+              - text: "9M followers · 4 following · 6726 posts · @amazondotin: “The official Instagram handle of"
+              - emphasis [ref=f3e908]: Amazon India
+              - text: . Shop now, thank us later. ”
+          - generic [ref=f3e912]:
+            - heading "Sponsored result" [level=2] [ref=f3e919]
+            - generic [ref=f3e920]:
+              - generic [ref=f3e932]:
+                - generic [ref=f3e933]:
+                  - 'link "Prime Day | Starts 4th July | Sneak Peek: Epic Deals Ahead amazon.in https://www.amazon.in › primeday › sale" [ref=f3e934] [cursor=pointer]':
+                    - /url: /goto?url=CAESTgHuR6pNT1oyr2t_jnFK9A5gOhDwK4uH-rAitP9v7vvtqB5Ltrn14nZa6b42qgwSK4pPrD8aXUuAj1734WgBmU6U4DThVsQ_7BeorS1bzg==
+                    - 'heading "Prime Day | Starts 4th July | Sneak Peek: Epic Deals Ahead" [level=3] [ref=f3e935]'
+                    - generic [ref=f3e941]:
+                      - generic [ref=f3e943]: amazon.in
+                      - generic [ref=f3e944]: https://www.amazon.in › primeday › sale
+                  - button "Why this ad?" [ref=f3e947] [cursor=pointer]:
+                    - img [ref=f3e949]
+                - generic [ref=f3e953]: 10% Instant Discount on SBI & AXIS bank Credit & Debit Card Transactions* Best Deals on Appliances, Home & Kitchen, Furniture and much more.
+                - generic [ref=f3e955]:
+                  - img "Rated 4.2 out of 5," [ref=f3e956]:
+                    - img [ref=f3e957]
+                  - generic [ref=f3e960]:
+                    - link "Rating" [ref=f3e961] [cursor=pointer]:
+                      - /url: https://www.google.com/shopping/ratings/account/metrics?q=amazon.in&c=IN&v=19
+                    - text: "for amazon.in: 4.2 - 1,431 reviews"
+                  - text: "- Average delivery time: 1–2 days"
+                - generic [ref=f3e963]:
+                  - text: ‎
+                  - link "Deals on Home & Kitchen" [ref=f3e964] [cursor=pointer]:
+                    - /url: /goto?url=CAESnQMB7keqTQ3zljljREla2AbDrsR3Su24rKWkSfFs9XdbmD2r_b291AUAQtYYyy6gqC-W_YrR0_I13WJkzyarGIUUUcoIBIaH59UOTDBvt7DtWzgOyVZ6BrwkxqB8vw97D0uEQaPqcs-M9LRydpoMqERFpS-jSl-lpWoUsu7-es3FgbGsrGz61EPt2OVQ7JEDYFRFMgBSh-hnHeoRudGgMZgxrz7qwtcWEZJAOkco8ugzzCSjpeRi1_zzM81nFGITEVzAds3A6xJ4ippp9tXRJuyjlqpRPtSnuskmwxHzMaXtumR7U53-1eieIhM3XKBpYJsyTmxQE9tYTZiNHoZvX_Mqg1VdS1R-tAFE5vJgaODLOpIpV_P4uvMtA83mOQRXG7GpCr3QCc4-q-MdowqVGJoBqNXQFOqkXh3mpXoZtgkG_RtGohxDYBTQpbnFkHGxozLxphhhVBYHcwn2ssdrgFrGF_DdRf_NIpMPtnhw179BLd6aQh6OxbuLYGhxPElgpFcwgulqm-ZPnMND_237puLUl6v5yH6CVgYSgg-Nsg==
+                  - text: · ‎
+                  - link "Mobiles and Accessories" [ref=f3e965] [cursor=pointer]:
+                    - /url: /goto?url=CAESngMB7keqTd7rZ4j0Ykc87upA7tk4W78G_9Avu3AE99PqpDzXRHvpZQbRdh_3Ym2jAhFeFIhuX3Diwzta8mABxTh5iVUOjFvbshJt39rY8jalvt303_04r0f4dW55yR0tD3gXSzCtFZXtZzUaKNOcwez8uBO-zi19KyIelTdlqZw8kFKiCLx32thwE1Jcnv0RYE_iiYHayptfOhmVM_bcz5d28VcM5U2chdlG3RkQh1qaSRTj57NMxX10o7uX6visedEJQYJk7obU2QOSwItiN4eTHN9UV-68SBL6SSwpU7BK-nnkfjA1KRlZwEua_AmRrZ8Rx3WIHDKqrBSHHQzN72atQnJSl5d6H4v1KpZGxL99TNkfZ8J_Asv_I-Hm12HOhKna_d3avOSHCAmCtu-OVUkPr1Tp6Bx7ZLW50KXzEsliblQBDFNtnxT3q1uZHiKkALv1l-zjPDrrus1LXEqgSS8Xl9SjIlNYJ8Z9pJDELDJP1xdZiH-fwyKoBI5tSyrK2zQq0znl-5pw7IFxJLeoyyyZzK1pv3Gl6QUXPcRXw7w=
+                  - text: · ‎
+                  - link "Amazon Fashion & Beauty" [ref=f3e966] [cursor=pointer]:
+                    - /url: /goto?url=CAESnwMB7keqTVrM2SYoLe7Xof0kZghJAigmsAwZICVaWGGhFaX_eOk_kkKy3mkj40_piClf-GjKbrjkri60VKZhVKAfFe4niZ7ueKpZcMDptXIr20Vpk-0Te4D3dbdItmtvlCPMZRZFH6rX2yuBdokBVMFangTEZiX81fxPV7QN3S__x69NvVRLH1-2UqL6HBb-BzZBZQo3v9SEmc8v8aGpfnG3Yn-MGGyc5mTBhdZaxiTeXjtdjoVEa9i3eZeSMHb-pyaiyAJl1D2zd8PY_dAdqem38RJM7JzZFe_P3j1eBxwywa8Ln4nywQsYIcEkkaahPR3Ub00b075Zo3WSJ7PeDDH5QmaQX27Wg20NHZ-lm5TYM0HmS57abo42lyWmxdOeZUmHhTecar2YRcCxXHLPfva80hGQjRv1TVgYZFvAAk0UxRrmYPB8nb7U3vnaeAKUmh5OBzigw6eldpAjzRHMF2ZJ34jG8rCkKlBMnZ_GuB446K1vJaS-Pwwq0eg0Vdy27m3RTfo7lHDo8oOvZDhb0WcZkVfosTnvv2B9n52bSlu2
+              - button "Hide sponsored result" [ref=f3e968] [cursor=pointer]:
+                - separator [ref=f3e969]
+                - generic [ref=f3e970]:
+                  - generic [ref=f3e971]: Hide sponsored result
+                  - img [ref=f3e973]
+          - generic [ref=f3e978]:
+            - generic [ref=f3e980]:
+              - heading "Videos" [level=2] [ref=f3e981]
+              - button "About this result" [ref=f3e982] [cursor=pointer]:
+                - img [ref=f3e985]
+            - generic [ref=f3e988]:
+              - generic [ref=f3e994]:
+                - generic [ref=f3e995]:
+                  - 'link "Amazon Doubles Down On India: CEO Andy Jassy ... YouTube CNBC-TV18 6 days ago" [ref=f3e997] [cursor=pointer]':
+                    - /url: /goto?url=CAESYwHuR6pNvbZnaZ_dLZx9-lqoCQR6EYxeIWE4MjObzEajKitNUBXqrVS5DUx18Em7DqyR2YyUU3G0BBOo-xVwywpfT8KZTws8hdJ9LqWdp5zjTzYIOG-gLrhKotJsu5IE_d55Xg==
+                    - 'heading "Amazon Doubles Down On India: CEO Andy Jassy ... YouTube CNBC-TV18 6 days ago" [level=3] [ref=f3e998]':
+                      - generic [ref=f3e1001]: "Amazon Doubles Down On India: CEO Andy Jassy ..."
+                      - generic [ref=f3e1003]:
+                        - generic [ref=f3e1004]:
+                          - text: YouTube
+                          - generic [ref=f3e1005]: · CNBC-TV18
+                        - generic [ref=f3e1006]: 6 days ago
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - text: YouTube
+                            - generic: · CNBC-TV18
+                      - button "About this result" [ref=f3e1007] [cursor=pointer]:
+                        - img [ref=f3e1010]
+                - 'button "Amazon Doubles Down On India: CEO Andy Jassy ... by CNBC-TV18 on YouTube. Play on Google. 19:51" [ref=f3e1012] [cursor=pointer]':
+                  - generic [ref=f3e1013]:
+                    - img [ref=f3e1016]
+                    - generic [ref=f3e1019]:
+                      - generic [ref=f3e1020]: 19:51
+                      - img [ref=f3e1023]
+              - generic [ref=f3e1029]:
+                - generic [ref=f3e1030]:
+                  - generic [ref=f3e1031]:
+                    - 'link "Amazon Doubles Down On India: Andy Jassy Meets PM Modi ... YouTube Business Today 6 days ago" [ref=f3e1033] [cursor=pointer]':
+                      - /url: /goto?url=CAESYwHuR6pNfoCyjI8xgccSxurDE8Sg_-dcmDvAA6cBASBEcqzpfv9W64tF7Ckfx7dJLw-ANml-etes_urBWI0ar5qFrtKpUlDI_E7q7E-3MhoSUjupMqR85ISbR2Lm6Y5_5k6IrQ==
+                      - 'heading "Amazon Doubles Down On India: Andy Jassy Meets PM Modi ... YouTube Business Today 6 days ago" [level=3] [ref=f3e1034]':
+                        - generic [ref=f3e1037]: "Amazon Doubles Down On India: Andy Jassy Meets PM Modi ..."
+                        - generic [ref=f3e1039]:
+                          - generic [ref=f3e1040]:
+                            - text: YouTube
+                            - generic [ref=f3e1041]: · Business Today
+                          - generic [ref=f3e1042]: 6 days ago
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - text: YouTube
+                              - generic: · Business Today
+                        - button "About this result" [ref=f3e1043] [cursor=pointer]:
+                          - img [ref=f3e1046]
+                  - 'link "Amazon Doubles Down On India: Andy Jassy Meets PM Modi ... by Business Today on YouTube. Play on YouTube. 2:42" [ref=f3e1048] [cursor=pointer]':
+                    - /url: /goto?url=CAESYwHuR6pNfoCyjI8xgccSxurDE8Sg_-dcmDvAA6cBASBEcqzpfv9W64tF7Ckfx7dJLw-ANml-etes_urBWI0ar5qFrtKpUlDI_E7q7E-3MhoSUjupMqR85ISbR2Lm6Y5_5k6IrQ==
+                    - generic [ref=f3e1049]:
+                      - img [ref=f3e1055]
+                      - generic [ref=f3e1059]: 2:42
+                - link "Amazon plans to invest $48 billion in India by 2030, with $13 billion for AI and cloud infrastructure, strengthening AWS data centers." [ref=f3e1061] [cursor=pointer]:
+                  - /url: /goto?url=CAESYwHuR6pNfoCyjI8xgccSxurDE8Sg_-dcmDvAA6cBASBEcqzpfv9W64tF7Ckfx7dJLw-ANml-etes_urBWI0ar5qFrtKpUlDI_E7q7E-3MhoSUjupMqR85ISbR2Lm6Y5_5k6IrQ==
+                  - generic [ref=f3e1065]: Amazon plans to invest $48 billion in India by 2030, with $13 billion for AI and cloud infrastructure, strengthening AWS data centers.
+              - generic [ref=f3e1071]:
+                - generic [ref=f3e1072]:
+                  - link "Turns out, the portal to big deals was an Amazon box all along ... Facebook Amazon India 2 days ago" [ref=f3e1074] [cursor=pointer]:
+                    - /url: /goto?url=CAESxAEB7keqTZVFy-ltNuAgAQjl5mqp9H_nYDkD5Wal7wPzZJCfJQunCL7pXQ5anB-MBfvudHwCXlhma5VOiiq1D9U2Q7ADJbPMe-D4QHKNfTlun5t_6wg9scy91YY7AEE28fDMrXoht5SL40_dHpPv-r3WQyOIJ3N8oNlK07c-G2TMYcQTNJJMoZOTgbTTo0eEg9B4l-7HZW7QZVLvjwJsGgaWifdDcSpz7zU1sFebHUknsEXq3uX4-QFomL7fIg0jJhKxf7Xi
+                    - heading "Turns out, the portal to big deals was an Amazon box all along ... Facebook Amazon India 2 days ago" [level=3] [ref=f3e1075]:
+                      - generic [ref=f3e1078]: Turns out, the portal to big deals was an Amazon box all along ...
+                      - generic [ref=f3e1080]:
+                        - generic [ref=f3e1081]:
+                          - text: Facebook
+                          - generic [ref=f3e1082]: · Amazon India
+                        - generic [ref=f3e1083]: 2 days ago
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - text: Facebook
+                            - generic: · Amazon India
+                      - button "About this result" [ref=f3e1084] [cursor=pointer]:
+                        - img [ref=f3e1087]
+                - link "Turns out, the portal to big deals was an Amazon box all along ... by Amazon India on Facebook. Play on Facebook. 0:20" [ref=f3e1089] [cursor=pointer]:
+                  - /url: /goto?url=CAESxAEB7keqTZVFy-ltNuAgAQjl5mqp9H_nYDkD5Wal7wPzZJCfJQunCL7pXQ5anB-MBfvudHwCXlhma5VOiiq1D9U2Q7ADJbPMe-D4QHKNfTlun5t_6wg9scy91YY7AEE28fDMrXoht5SL40_dHpPv-r3WQyOIJ3N8oNlK07c-G2TMYcQTNJJMoZOTgbTTo0eEg9B4l-7HZW7QZVLvjwJsGgaWifdDcSpz7zU1sFebHUknsEXq3uX4-QFomL7fIg0jJhKxf7Xi
+                  - generic [ref=f3e1090]:
+                    - img [ref=f3e1096]
+                    - generic [ref=f3e1100]: 0:20
+            - link "View all videos" [ref=f3e1103] [cursor=pointer]:
+              - /url: /search?sca_esv=47fdd52eba661d26&udm=7&q=Amazon+India&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8ccDKAJ6BAg-EAQ
+              - separator [ref=f3e1104]
+              - generic [ref=f3e1105]:
+                - generic [ref=f3e1106]: View all
+                - img [ref=f3e1108]
+          - generic [ref=f3e1113]:
+            - generic [ref=f3e1116]:
+              - link "About Amazon India About Amazon India https://www.aboutamazon.in" [ref=f3e1118] [cursor=pointer]:
+                - /url: /goto?url=CAESUwHuR6pNJuPKtLlH_urUruzSY-faIrgyuP5P7OS4BLiu3zzj83Y5UmgEyu7A0mNPwapfMQhJm616jVsEFTStMYelpXVdMTiGxQnb6wl1McmI8HgO
+                - heading "About Amazon India" [level=3] [ref=f3e1119]
+                - generic [ref=f3e1125]:
+                  - generic [ref=f3e1127]: About Amazon India
+                  - generic [ref=f3e1129]: https://www.aboutamazon.in
+              - button "About this result" [ref=f3e1132] [cursor=pointer]:
+                - img [ref=f3e1135]
+            - generic [ref=f3e1138]:
+              - generic [ref=f3e1139]:
+                - emphasis [ref=f3e1140]: Three days of deals across smartphones, electronics, fashion and everyday essentials
+                - text: ", plus AI tools like Rufus and Lens AI to help you find the right products ..."
+              - link "Read more" [ref=f3e1141] [cursor=pointer]:
+                - /url: /goto?url=CAESpgEB7keqTWcUR4U5GEIVLquU01SsIMUtDTeJ8Z58e9IPxsPJg21Ik69_9wVVCpfXjhFcizdhet2Fn-gbUudzCwUPB-5TwtlrR-K9cS6cx9FEwaOPQniaxrbs52sfxCeTywdHWm75dx_7qYySJvraAtKCPSxMyRGl4jE1tcAGwn-danLq0Wy1VNOYmxHxNWxy-tWbsE0DCBFc9Uqn6T7vhtLC30R_Fvmp
+          - generic [ref=f3e1145]:
+            - generic [ref=f3e1148]:
+              - link "India @ Amazon.com Amazon.com https://www.amazon.com › India" [ref=f3e1150] [cursor=pointer]:
+                - /url: /goto?url=CAESbwHuR6pNGBZkE9FKygG5j9A0SyTMBKWxl0R70tGvehco6qPc_52zFuXy9sHCd4Dn9pK52r-6tSiQ5cmaR7cm25Tt_Othjbbvxzw0K8SCITjVb7TZXcc0_DZf3xOdOO0Fs-TEhY9HOMNvgc9i5VaSDQ==
+                - heading "India @ Amazon.com" [level=3] [ref=f3e1151]
+                - generic [ref=f3e1157]:
+                  - generic [ref=f3e1159]: Amazon.com
+                  - generic [ref=f3e1161]: https://www.amazon.com › India
+              - button "About this result" [ref=f3e1164] [cursor=pointer]:
+                - img [ref=f3e1167]
+            - generic [ref=f3e1170]:
+              - generic [ref=f3e1171]:
+                - emphasis [ref=f3e1172]: Appliances
+                - text: · Arts, Crafts & Sewing · Automotive · Baby Products · Beauty & Personal Care · Books · CDs & Vinyl · Clothing, Shoes & Jewelry.
+              - link "Read more" [ref=f3e1173] [cursor=pointer]:
+                - /url: /goto?url=CAESvAIB7keqTe4-CLKJV1PEC-m4nQalPN6kSIr7MgXRIubY-wRbB808uvLCk8pE3ckqR2keHGq3K8Pk2cWAiENY3T-Qp6qVY4mdYp7SfgKSGv09WU5ekmymES3hO2Ag4i1DV1b_Frjjri-rsS6SiE-VW1uOWyYtQJpg-PTaivPeJs5hcxKK_BM6Rmvo3G-v0o5f7Kv_o3K8sZki7B9fGHQsJLCfZ6S888JcumzsGFsE2hWGkWHgbmV688F_pbOVEUjJ2cvnmCMnlYwLMRtfNgDgS0tGIQ-6ecyq-kGaT6EgJE-1KwWgjUg8e-T8e37Su-edWu_2fw3CbuwpP4Zk2s8eiAP_Wypv8ZpkA3z9jXcpwZd4nY1nMkYXdAfSaDCfYsg1HhUNDn0N5EF_pyGdGxSPlqsx4vzmJGYS1WVXfVwZ
+      - generic [ref=f3e1175]:
+        - generic [ref=f3e1180]:
+          - heading "People also search for" [level=2] [ref=f3e1182]
+          - generic [ref=f3e1184]:
+            - generic [ref=f3e1185]:
+              - link "Amazon India online shopping" [ref=f3e1189] [cursor=pointer]:
+                - /url: /search?sca_esv=47fdd52eba661d26&q=Amazon+India+online+shopping&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ1QJ6BAgkEAE
+                - generic [ref=f3e1190]:
+                  - generic [ref=f3e1195]: Amazon India online shopping
+                  - img [ref=f3e1199]
+              - link "Amazon india Flipkart" [ref=f3e1204] [cursor=pointer]:
+                - /url: /search?sca_esv=47fdd52eba661d26&q=Amazon+india+Flipkart&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ1QJ6BAg7EAE
+                - generic [ref=f3e1205]:
+                  - generic [ref=f3e1210]: Amazon india Flipkart
+                  - img [ref=f3e1214]
+              - link "Amazon india Price" [ref=f3e1219] [cursor=pointer]:
+                - /url: /search?sca_esv=47fdd52eba661d26&q=Amazon+india+Price&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ1QJ6BAg5EAE
+                - generic [ref=f3e1220]:
+                  - generic [ref=f3e1225]: Amazon india Price
+                  - img [ref=f3e1229]
+              - link "Amazon India app" [ref=f3e1234] [cursor=pointer]:
+                - /url: /search?sca_esv=47fdd52eba661d26&q=Amazon+India+app&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ1QJ6BAgzEAE
+                - generic [ref=f3e1235]:
+                  - generic [ref=f3e1240]: Amazon India app
+                  - img [ref=f3e1244]
+            - generic [ref=f3e1246]:
+              - link "Amazon India login" [ref=f3e1250] [cursor=pointer]:
+                - /url: /search?sca_esv=47fdd52eba661d26&q=Amazon+India+login&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ1QJ6BAgtEAE
+                - generic [ref=f3e1251]:
+                  - generic [ref=f3e1256]: Amazon India login
+                  - img [ref=f3e1260]
+              - link "Amazon India customer care number" [ref=f3e1265] [cursor=pointer]:
+                - /url: /search?sca_esv=47fdd52eba661d26&q=Amazon+India+customer+care+number&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ1QJ6BAgsEAE
+                - generic [ref=f3e1266]:
+                  - generic [ref=f3e1271]: Amazon India customer care number
+                  - img [ref=f3e1275]
+              - link "Amazon India delivery" [ref=f3e1280] [cursor=pointer]:
+                - /url: /search?sca_esv=47fdd52eba661d26&q=Amazon+India+delivery&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ1QJ6BAgqEAE
+                - generic [ref=f3e1281]:
+                  - generic [ref=f3e1286]: Amazon India delivery
+                  - img [ref=f3e1290]
+              - link "Amazon India company" [ref=f3e1295] [cursor=pointer]:
+                - /url: /search?sca_esv=47fdd52eba661d26&q=Amazon+India+company&sa=X&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ1QJ6BAglEAE
+                - generic [ref=f3e1296]:
+                  - generic [ref=f3e1301]: Amazon India company
+                  - img [ref=f3e1305]
+        - navigation [ref=f3e1307]:
+          - heading "Page navigation" [level=1] [ref=f3e1308]
+          - text: "1"
+          - link "Page 2" [ref=f3e1311] [cursor=pointer]:
+            - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=10&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8tMDegQIIhAE
+            - text: "2"
+          - link "Page 3" [ref=f3e1313] [cursor=pointer]:
+            - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=20&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8tMDegQIIhAG
+            - text: "3"
+          - link "Page 4" [ref=f3e1315] [cursor=pointer]:
+            - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=30&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8tMDegQIIhAI
+            - text: "4"
+          - link "Page 5" [ref=f3e1317] [cursor=pointer]:
+            - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=40&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8tMDegQIIhAK
+            - text: "5"
+          - link "Page 6" [ref=f3e1319] [cursor=pointer]:
+            - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=50&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8tMDegQIIhAM
+            - text: "6"
+          - link "Page 7" [ref=f3e1321] [cursor=pointer]:
+            - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=60&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8tMDegQIIhAO
+            - text: "7"
+          - link "Page 8" [ref=f3e1323] [cursor=pointer]:
+            - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=70&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8tMDegQIIhAQ
+            - text: "8"
+          - link "Page 9" [ref=f3e1325] [cursor=pointer]:
+            - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=80&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8tMDegQIIhAS
+            - text: "9"
+          - link "Page 10" [ref=f3e1327] [cursor=pointer]:
+            - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=90&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8tMDegQIIhAU
+            - text: "10"
+          - heading "Next" [level=2] [ref=f3e1329]:
+            - link "Next" [ref=f3e1330] [cursor=pointer]:
+              - /url: /search?q=Amazon+India&sca_esv=47fdd52eba661d26&ei=ejBGaqCVIeGtseMPxYn9iAs&start=10&sa=N&sstk=AU9db-C70iTibc3EdXdRXqGdhypqWye4D5lwH6iF52FVufVQWUsipcHklitD3-YlALduY7IHyhHWj7yjqToNCEhhynvTnGVmd2-_DQ&ved=2ahUKEwiguueJ2LOVAxXhVmwGHcVEH7EQ8NMDegQIIhAW
+              - generic [ref=f3e1332]: Next
+      - navigation
+    - contentinfo [ref=f3e1333]:
+      - heading "Footer links" [level=1] [ref=f3e1334]
+      - generic [ref=f3e1338]:
+        - generic [ref=f3e1340]:
+          - text: India
+          - generic [ref=f3e1342]:
+            - button "560035, Bengaluru, Karnataka - From your IP address" [ref=f3e1344] [cursor=pointer]:
+              - generic [ref=f3e1345]: 560035, Bengaluru, Karnataka
+              - generic [ref=f3e1347]:
+                - text: "-"
+                - generic [ref=f3e1348]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=f3e1350] [cursor=pointer]: Update location
+        - generic [ref=f3e1353]:
+          - link "Help" [ref=f3e1354] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+          - link "Send feedback" [ref=f3e1355] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f3e1356] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=f3e1357] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1
