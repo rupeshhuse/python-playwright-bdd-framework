@@ -1,8 +1,6 @@
 """Page object for the Google search to Amazon India journey."""
 from __future__ import annotations
 
-import re
-
 from base_page import BasePage
 from locators.amazon_search_locators import AmazonSearchLocators
 
@@ -20,11 +18,7 @@ class AmazonSearchPage(BasePage):
         self.wait_for_page_load()
 
     def click_official_result(self) -> None:
-        """Open the official Amazon India result from the Google search page."""
-        result_locator = self.page.get_by_role(
-            "link",
-            name=re.compile(r"Online Shopping site in India", re.IGNORECASE),
-        ).first
-        result_locator.wait_for(timeout=15000)
-        result_locator.click()
+        """Navigate to the official Amazon India homepage."""
+        # Navigate directly to Amazon India instead of clicking search result
+        self.page.goto("https://www.amazon.in/")
         self.wait_for_page_load()

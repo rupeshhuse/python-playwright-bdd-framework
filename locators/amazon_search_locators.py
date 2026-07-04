@@ -6,5 +6,4 @@ class AmazonSearchLocators:
     """CSS selectors used by the Amazon search page object."""
 
     GOOGLE_SEARCH_BOX = "textarea[name='q']"
-    AMAZON_RESULT_HEADING = "h3"
-    AMAZON_RESULT_LINK = "a"
+    AMAZON_RESULT = "h3:has-text('Online Shopping site in India')"
