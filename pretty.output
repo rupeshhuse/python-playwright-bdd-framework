@@ -1,13 +1,11 @@
-Feature: Search Amazon India from Google # features/amazon_search.feature:1
+Feature: Validate Amazon India upper navigation links # features/internal_links.feature:1
   As a user
-  I want to search for Amazon India on Google
-  So that I can validate the official Amazon homepage
-  Scenario: Open the official Amazon India homepage from Google search  # features/amazon_search.feature:6
-    Given the user opens Google search                                  # features/steps/amazon_search_steps.py:9
-    When the user searches for "Amazon India"                           # features/steps/amazon_search_steps.py:16
-    And the user clicks the official Amazon India result                # features/steps/amazon_search_steps.py:22
-    Then the Amazon India homepage should load                          # features/steps/amazon_search_steps.py:28
-    And the page title should contain "Amazon.in"                       # features/steps/amazon_search_steps.py:35
-    And the page URL should contain "amazon.in"                         # features/steps/amazon_search_steps.py:41
-    And a screenshot should be captured                                 # features/steps/amazon_search_steps.py:47
+  I want to verify the visible upper navigation links on Amazon.in
+  So that I can ensure the navigation grid remains clickable and navigable
+  Scenario: Validate the visible upper navigation links on Amazon.in    # features/internal_links.feature:6
+    Given the user opens the Amazon India homepage                      # features/steps/internal_links_steps.py:9
+    When the user collects the visible upper navigation links           # features/steps/internal_links_steps.py:16
+    Then each visible link with a valid destination should be clickable # features/steps/internal_links_steps.py:22
+    And each clicked link should navigate to a valid Amazon destination # features/steps/internal_links_steps.py:31
+    And a screenshot should be captured for the navigation validation   # features/steps/internal_links_steps.py:43
 

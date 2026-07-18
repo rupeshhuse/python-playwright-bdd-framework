@@ -77,11 +77,14 @@ class BasePage:
         self.page.locator(selector).wait_for(state=state, timeout=timeout)
 
     def wait_for_page_load(self, timeout: int = DEFAULT_TIMEOUT) -> None:
-        """Wait for the page lifecycle to settle without hanging on every network condition."""
+        """Wait for the main document to become interactive without failing on slow third-party requests."""
         self.page.wait_for_load_state("domcontentloaded", timeout=timeout)
-        self.page.wait_for_load_state("load", timeout=timeout)
         try:
-            self.page.wait_for_load_state("networkidle", timeout=timeout)
+            self.page.wait_for_load_state("load", timeout=timeout)
+        except Exception:  # pragma: no cover - defensive wait handling
+            LOGGER.debug("Load state wait timed out; continuing execution")
+        try:
+            self.page.wait_for_load_state("networkidle", timeout=timeout // 2)
         except Exception:  # pragma: no cover - defensive wait handling
             LOGGER.debug("Network idle wait timed out; continuing execution")
 
