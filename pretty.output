@@ -6,60 +6,8 @@ Feature: Search Amazon India from Google # features/amazon_search.feature:1
     Given the user opens Google search                                  # features/steps/amazon_search_steps.py:9
     When the user searches for "Amazon India"                           # features/steps/amazon_search_steps.py:16
     And the user clicks the official Amazon India result                # features/steps/amazon_search_steps.py:22
-      Traceback (most recent call last):
-        File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\behave\model.py", line 1991, in run
-          match.run(runner.context)
-          ~~~~~~~~~^^^^^^^^^^^^^^^^
-        File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\behave\matchers.py", line 105, in run
-          self.func(context, *args, **kwargs)
-          ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
-        File "features\steps\amazon_search_steps.py", line 25, in step_click_official_amazon_result
-          context.amazon_page.click_official_result()
-          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
-        File "C:\Playwright_Automation\python-playwright-bdd-framework\pages\amazon_search_page.py", line 22, in click_official_result
-          self.click(AmazonSearchLocators.AMAZON_RESULT)
-          ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        File "C:\Playwright_Automation\python-playwright-bdd-framework\base_page.py", line 32, in click
-          self._locator(selector, timeout=timeout).click(timeout=timeout)
-          ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        File "C:\Playwright_Automation\python-playwright-bdd-framework\base_page.py", line 27, in _locator
-          self.wait_for_element(selector, timeout=timeout)
-          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        File "C:\Playwright_Automation\python-playwright-bdd-framework\base_page.py", line 77, in wait_for_element
-          self.page.locator(selector).wait_for(state=state, timeout=timeout)
-          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\sync_api\_generated.py", line 20298, in wait_for
-          self._sync(
-          ~~~~~~~~~~^
-              self._impl_obj.wait_for(timeout=to_milliseconds(timeout), state=state)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-          )
-          ^
-        File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
-          return task.result()
-                 ~~~~~~~~~~~^^
-        File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_locator.py", line 741, in wait_for
-          await self._frame.wait_for_selector(
-              self._selector, strict=True, timeout=timeout, state=state
-          )
-        File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_frame.py", line 394, in wait_for_selector
-          await self._channel.send(
-              "waitForSelector", self._timeout, locals_to_params(locals())
-          )
-        File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
-          return await self._connection.wrap_api_call(
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-          ...<3 lines>...
-          )
-          ^
-        File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_connection.py", line 563, in wrap_api_call
-          raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
-      playwright._impl._errors.TimeoutError: Locator.wait_for: Timeout 15000ms exceeded.
-      Call log:
-        - waiting for locator("h3:has-text('Online Shopping site in India'), a[href*='amazon.in']") to be visible
-
-    Then the Amazon India homepage should load                          # None
-    And the page title should contain "Amazon.in"                       # None
-    And the page URL should contain "amazon.in"                         # None
-    And a screenshot should be captured                                 # None
+    Then the Amazon India homepage should load                          # features/steps/amazon_search_steps.py:28
+    And the page title should contain "Amazon.in"                       # features/steps/amazon_search_steps.py:35
+    And the page URL should contain "amazon.in"                         # features/steps/amazon_search_steps.py:41
+    And a screenshot should be captured                                 # features/steps/amazon_search_steps.py:47
 
